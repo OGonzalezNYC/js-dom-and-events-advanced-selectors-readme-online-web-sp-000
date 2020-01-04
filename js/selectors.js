@@ -32,5 +32,6 @@ function divSelector() {
 }
 
 function firstListItem() {
-  return $('ul #pic-list:first-child')
+  let x =  $('ul #pic-list:first-child')
+  
 }
